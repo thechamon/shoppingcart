@@ -1,12 +1,10 @@
-body {
-    font-family: Arial, sans-serif;
+/* Custom Styles */
+.product-card img {
+    height: 200px;
+    object-fit: contain;
   }
   
-  #product-list .card {
-    margin-bottom: 1rem;
-  }
-  
-  #cart {
-    position: sticky;
-    top: 1rem;
+  .modal-body {
+    max-height: 60vh;
+    overflow-y: auto;
   }
