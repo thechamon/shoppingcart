@@ -1,0 +1,12 @@
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  #product-list .card {
+    margin-bottom: 1rem;
+  }
+  
+  #cart {
+    position: sticky;
+    top: 1rem;
+  }
